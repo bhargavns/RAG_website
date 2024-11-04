@@ -1,0 +1,1796 @@
+Original text: Xtaw chi richooch. 
+
+Model output (or obfuscated gloss): COM-camino PREP E3S-casa 
+Expected Gloss:COM-llegar PREP E3S-casa 
+ Translation: Llego en su casa. 
+
+"gloss: COM-llegar(0.9) PREP(1.0) E3S-casa(0.9),
+
+explanation: This sentence consists of three words:
+- 'Xtaw' can be broken down as: 'x-' (completive aspect marker, COM), 'taw' (verb root meaning 'to arrive' or 'to reach'). (confidence: 0.9)
+- 'chi' is a preposition (PREP). (confidence: 1.0)
+- 'richooch' can be broken down as: 'r-' (3rd person singular ergative prefix, E3S), 'ichooch' (noun meaning 'house' or 'home'). (confidence: 0.9)
+
+So the whole sentence 'Xtaw chi richooch' can be glossed as 'COM-llegar PREP E3S-casa', which means something like 'He/she arrived at his/her house'.
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+- The 'Tiempo/aspecto' (Tense/aspect) section to identify the completive aspect marker 'x-'.
+- The 'Marcadores ergativos' (Ergative markers) section to identify the 3rd person singular ergative prefix 'r-'.
+- The example sentences that used 'chi' as a preposition.
+- The structure of possession using ergative markers, as shown in examples like 'r-ix\u00edim' (su ma\u00edz).
+
+Confidence scores were assigned based on how closely each word or morpheme matched information provided in the grammar document. Higher scores (closer to 1.0) indicate a strong direct match, while lower scores (closer to 0.9) indicate a very likely match based on the grammar rules and examples provided. The preposition 'chi' received a 1.0 confidence as it's directly mentioned as a preposition in the document."--------------------------------------------------
+Retrieved metadata: {'page': 1, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Comunidad Lingüística Uspanteka aprobado por la Academia de Lenguas Mayas de 
+Guatemala -ALMG-. 
+ 
+Cholaj Tzijb’al li Uspanteko  es una obra lexicográfica que busca fortalecer el 
+idioma a través de la documentación del léxi co para dar a conocer el significado de 
+las palabras, su contexto de uso y su forma escrita. Se espera también dar a conocer 
+el vocabulario con el fin de que sea inteligible para cualquier hablante, sin importar de qué región sea o qué variante utilice. Pe ro su uso no es restringido, ya que podrá 
+ser utilizado en la escuela, en el hogar o en cualquier ámbito donde el Uspanteko esté 
+presente. 
+ 
+¿Qué contiene?  
+ 
+El diccionario está ordenado de forma alfa bética, siguiendo el patrón del alfabeto 
+Uspanteko de La Academia de las Lenguas Mayas de Guatemala y específicamente por La Comunidad Lingüística Uspanteka. Su contenido, en cuanto al léxico, incluye sustantivos, verbos, adjetivos, adverbios y números. Se estructura por segmentos, 
+incluye una guía de uso, una gramátic a básica y un glosario español-Uspanteko. 
+ Agradecimientos: 
+ 
+Esta obra representa un esfuerzo c onjunto de OKMA como un centro de 
+investigación lingüística, además de habl antes del Uspanteko que brindaron su 
+colaboración durante la fase de investigaci ón (ver listado en la parte final del 
+diccionario). Fue de vital importancia durant e este proceso contar con los aportes de 
+investigadores que han realizado trabajos le xicográficos en otros idiomas Mayas, a 
+ellos manifestamos nuestro profundo agrad ecimiento; a: Ixkeem, Nora C. England, 
+asesora general del proyecto, por la coordinación, asesoría, definición del perfil y objetivos del diccionario, definición del formato y planificación de cada etapa del proyecto.  A B’alam Mateo Toledo, asesor del proyecto y co-coordinador del equipo 
+Awakateko. 
+ A Judith Aissen, Roberto Zavala, Enrique Palancar, Paulette Levy, Nick Evans, 
+Jonathan D. Amith, John Haviland, Robert  Laughlin, Kathryn Josserand (Q.E.P.D.), 
+Nicholas Hopkins y Laura Martin por dife rentes talleres impartidos que fueron de 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+--------------------------------------------------Retrieved metadata: {'page': 18, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ FUT futuro    GEN genitivo 
+IM imperfectivo/imperfecto  INC incompletivo INCL inclusivo   INF infinitivo 
+INM inmediato/inmediatito  INS instrumento/instrumental 
+INT interrogativo   IRR irreal ITR intransitivizador  ITS intensificador LEJ lejano (tiempo)  LOC locativo MED medida   MEN mensurativo MOV movimiento   NEG negativo 
+P posicional   PAS pasivo 
+PER perfectivo/perfecto  PL plural POS posesivo   POT potencial PP participio perfecto  PRG progresivo PSD pasado   RCT tiempo reciente 
+REC recíproco   REF referencial 
+RFX reflexivo   S sustantivo SV sustantivo verbal  SAB sustantivo abstracto SC sufijo de categoría  SS sustantivizador SUB subordinador   TAM tiempo/aspecto/modo 
+TEM tema    TRN transitivizador 
+V verbo    VBL verbalizador VER versito    VI verbo intransitivo VT verbo transitivo  VTD verbo transitivo derivado VTE vocal temática   VTR verbo transitivo radica 
+--------------------------------------------------Retrieved metadata: {'page': 11, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Los marcadores ergativos funcionan como agentes (sujetos transitivos) como en (4) y 
+como poseedores como en los ejemplos en (5).  
+(4) a. x-ø- in-tuk’   ‘lo empujé’ 
+ COM-A3s-E1s-empujar 
+ b. x-ø- a-tuk’   ‘lo empujaste’ 
+  COM-A3s-E2s-empujar  c.  x-ø- ø-tuk’   ‘lo empujó’ 
+ COM-A3s-E3s-empujar 
+ d. x-ø- w-il/x-ø- inw- il  ‘lo vi’ 
+ COM-A3s-E1s-ver/COM-A3s-E1s-ver 
+ e. x-ø- q-il    ‘lo vimos’ 
+ COM-A3s-E1p-ver  f. x-ø- aw-il  taq ‘lo vieron Uds.’ 
+ COM-A3s-E2s-ver PL  (5) a.  w-ixíim ‘mi maíz’ 
+ b. aw-ixíim ‘tu maíz’ 
+ c.  r-ixíim  ‘su maíz’ 
+ d. q-ixíim  ‘nuestro maíz’ 
+ e.  aw-ixim- aq ‘maíz de Uds.’ 
+ f.  r-ixim- aq ‘maíz de ellos’ 
+ (6) a. in-tiko’n ‘mi siembra’ 
+ b. a-tiko’n ‘tu siembra’ 
+ c.  j-tiko’n ‘su siembra’ 
+ d. qa-tiko’n ‘nuestra siembra’ 
+ e.  a-tikó’n- aq ‘siembra de Uds.’ 
+ f.  j-tiko’n- aq ‘siembra de ellos’ 
+ Plurales 
+Basado en los datos obtenidos se encontró  que en Uspanteko no existen muchos 
+sustantivos ni adjetivos con sufijo plural. Es común encontrar este tipo de sufijo con 
+apellidos, ya que es en donde se encuentran más casos. Tanto con adjetivos como con 
+sustantivos se emplea el sufijo pluralizador - aq. 
+ Otro caso en donde se encuentran marcador es plurales es con personas gramaticales. 
+En estos casos se emplea - aq cuando la persona gramati cal funciona como poseedor. 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: Iin xinta'ch' juun inportuun. 
+
+Model output (or obfuscated gloss): yo COM-E1S-encontrar-DIR yo AFE-fortuna 
+Expected Gloss:yo COM-E1S-encontrar-DIR uno E1S-fortuna 
+ Translation: Yo encontre una mi fortuna. 
+
+"gloss: yo COM-A1S-encontrar-DIR uno E1S-fortuna,
+explanation: This sentence consists of five words:
+
+- 'Iin' is a pronoun meaning 'yo' (I/me). (confidence: 1.0)
+- 'xinta'ch'' can be broken down as:
+  'x-' (completive aspect marker, COM)
+  'in-' (1st person singular absolutive marker, A1S)
+  'ta'' (verb root meaning 'encontrar' or 'find')
+  '-ch'' (directional suffix, DIR) (confidence: 0.9)
+- 'juun' is a numeral meaning 'uno' (one). (confidence: 1.0)
+- 'inportuun' can be broken down as:
+  'in-' (1st person singular ergative marker, E1S)
+  'portuun' (noun meaning 'fortuna' or 'fortune') (confidence: 0.8)
+
+The whole sentence 'Iin xinta'ch' juun inportuun' can be glossed as 'yo COM-A1S-encontrar-DIR uno E1S-fortuna', which means something like 'I found my fortune' or 'I encountered my fortune'.
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+- The 'Tiempo/aspecto' (Tense/aspect) section to identify the completive aspect marker 'x-'.
+- The 'Marcadores de persona' (Person markers) section to identify the 1st person singular absolutive marker 'in-' and the 1st person singular ergative marker 'in-'.
+- The example sentences in the document that used similar structures, particularly those demonstrating the use of aspect markers and person markers with verbs.
+- The document doesn't explicitly mention the directional suffix '-ch'', but it's a common feature in Mayan languages, so it was retained.
+- The numeral 'juun' (one) appears in various examples throughout the document.
+
+Confidence scores were assigned based on how closely each word or morpheme matched information provided in the grammar document. Higher scores (closer to 1.0) indicate a strong direct match, while lower scores (closer to 0.8) indicate a more tentative match based on context or inference. The lower confidence for 'inportuun' reflects the fact that while the possessive prefix is clear, the exact meaning of 'portuun' is inferred rather than explicitly stated in the document."--------------------------------------------------
+Retrieved metadata: {'page': 18, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ FUT futuro    GEN genitivo 
+IM imperfectivo/imperfecto  INC incompletivo INCL inclusivo   INF infinitivo 
+INM inmediato/inmediatito  INS instrumento/instrumental 
+INT interrogativo   IRR irreal ITR intransitivizador  ITS intensificador LEJ lejano (tiempo)  LOC locativo MED medida   MEN mensurativo MOV movimiento   NEG negativo 
+P posicional   PAS pasivo 
+PER perfectivo/perfecto  PL plural POS posesivo   POT potencial PP participio perfecto  PRG progresivo PSD pasado   RCT tiempo reciente 
+REC recíproco   REF referencial 
+RFX reflexivo   S sustantivo SV sustantivo verbal  SAB sustantivo abstracto SC sufijo de categoría  SS sustantivizador SUB subordinador   TAM tiempo/aspecto/modo 
+TEM tema    TRN transitivizador 
+V verbo    VBL verbalizador VER versito    VI verbo intransitivo VT verbo transitivo  VTD verbo transitivo derivado VTE vocal temática   VTR verbo transitivo radica 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+--------------------------------------------------Retrieved metadata: {'page': 8, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Gramática básica 
+ 
+Alfabeto 
+En este diccionario se usa el alfabeto of icial del Uspanteko que consta de 22 
+consonantes y 10 vocales. Sin embargo, se empleó un signo diacrítico, el cual 
+consiste en el uso del acento orto gráfico sobre las vocales con tono. 
+El alfabeto: a, aa, b’, ch, ch’, e, ee, i, ii, j, k, k’, l, m, n, o, oo, p, q, q’, r, s, t, t’, tz, tz’, 
+u, uu, w, x, y, ’.  
+Categorías de flexión 
+A continuación se presentan los afijos flexi vos que tiene el idioma y que agregan 
+diferentes tipos de información gramatical. 
+ 
+Tiempo/aspecto 
+En Uspanteko se distinguen los siguientes marcadores de tiempo/aspecto: 
+completivo, incompletivo, progresivo y perfectivo. Estos marcadores se muestran dentro del siguiente cuadro: 
+ 
+Tiempo/aspecto Marcador Descripción 
+Completivo x- 
+ 
+ø- -Este prefijo marca completivo tanto en verbos 
+transitivos como en intransitivos. 
+-Este alomorfo generalmente se emplea cuando los 
+dos argumentos del verbo transitivo corresponden a terceras personas. 
+Incompletivo 
+Habitual t-  
+ti-  
+ 
+  
+ø- -Generalmente se emplea este morfema antes de vocales. 
+-Este morfema se emplea antes de consonantes. Los morfemas t- y ti- se emplean en verbos intransitivos 
+únicamente cuando el sujeto es tercera persona. Con 
+verbos transitivos se emplea únicamente cuando el objeto es tercera persona. 
+-En verbos intransitivos se emplea cuando el sujeto 
+no es tercera persona y en verbos transitivos se emplea sólo cuando el objeto no es tercera persona. 
+Progresivo tijin Este marcador se utiliza antes de un verbo transitivo o 
+intransitivo con marcador incompletivo. 
+--------------------------------------------------Retrieved metadata: {'page': 11, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Los marcadores ergativos funcionan como agentes (sujetos transitivos) como en (4) y 
+como poseedores como en los ejemplos en (5).  
+(4) a. x-ø- in-tuk’   ‘lo empujé’ 
+ COM-A3s-E1s-empujar 
+ b. x-ø- a-tuk’   ‘lo empujaste’ 
+  COM-A3s-E2s-empujar  c.  x-ø- ø-tuk’   ‘lo empujó’ 
+ COM-A3s-E3s-empujar 
+ d. x-ø- w-il/x-ø- inw- il  ‘lo vi’ 
+ COM-A3s-E1s-ver/COM-A3s-E1s-ver 
+ e. x-ø- q-il    ‘lo vimos’ 
+ COM-A3s-E1p-ver  f. x-ø- aw-il  taq ‘lo vieron Uds.’ 
+ COM-A3s-E2s-ver PL  (5) a.  w-ixíim ‘mi maíz’ 
+ b. aw-ixíim ‘tu maíz’ 
+ c.  r-ixíim  ‘su maíz’ 
+ d. q-ixíim  ‘nuestro maíz’ 
+ e.  aw-ixim- aq ‘maíz de Uds.’ 
+ f.  r-ixim- aq ‘maíz de ellos’ 
+ (6) a. in-tiko’n ‘mi siembra’ 
+ b. a-tiko’n ‘tu siembra’ 
+ c.  j-tiko’n ‘su siembra’ 
+ d. qa-tiko’n ‘nuestra siembra’ 
+ e.  a-tikó’n- aq ‘siembra de Uds.’ 
+ f.  j-tiko’n- aq ‘siembra de ellos’ 
+ Plurales 
+Basado en los datos obtenidos se encontró  que en Uspanteko no existen muchos 
+sustantivos ni adjetivos con sufijo plural. Es común encontrar este tipo de sufijo con 
+apellidos, ya que es en donde se encuentran más casos. Tanto con adjetivos como con 
+sustantivos se emplea el sufijo pluralizador - aq. 
+ Otro caso en donde se encuentran marcador es plurales es con personas gramaticales. 
+En estos casos se emplea - aq cuando la persona gramati cal funciona como poseedor. 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: Che' re sik' anm. 
+
+Model output (RoBERTa/BiLSTM): dice PART chompipe mujer 
+Expected Gloss:dice PART AFE mujer 
+Translation: Le dijo a la mujer. 
+
+Corrected Gloss: decir(0.9) PART(0.7) chompipe(0.9) mujer(0.9),
+
+explanation: This sentence consists of four words:
+- 'Che'' is likely a form of the verb 'decir' (to say). The apostrophe at the end might indicate a specific verbal form. (confidence: 0.9)
+- 're' is glossed as a particle (PART). Its exact function is not clear from the context, but it could be a directional or emphatic particle. (confidence: 0.7)
+- 'sik'' seems to be a noun meaning 'chompipe' (turkey). (confidence: 0.9)
+- 'anm' is glossed as 'mujer' (woman). (confidence: 0.9)
+
+The whole sentence \"Che' re sik' anm\" can be glossed as \"decir PART chompipe mujer\", which might mean something like \"The woman says to the turkey\" or \"Say to the turkey, woman\".
+
+how RAG was used: To generate this explanation, I used the following information from the provided Uspanteko grammar document:
+
+1. The document doesn't provide direct information about the words in this sentence, so most of the glossing is based on the original gloss provided.
+
+2. The document mentions various grammatical particles and affixes, which supports the interpretation of 're' as a particle, though its exact function is not specified.
+
+3. The document discusses verb forms and person markers, which supports the interpretation of 'Che'' as a verb form, likely related to 'decir' (to say).
+
+4. The document doesn't provide specific vocabulary for 'sik'' or 'anm', so these are maintained from the original gloss.
+
+5. The confidence scores are based on how closely each word matches the original gloss and general linguistic principles, given the lack of specific information in the provided grammar document.
+
+No specific corrections were made to the original gloss based on the grammar document, as it didn't provide direct information about these particular words or structures. The explanation is largely based on interpreting the original gloss in the context of general Uspanteko grammatical features mentioned in the document."--------------------------------------------------
+Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+--------------------------------------------------Retrieved metadata: {'page': 2, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ A Romelia Mó Isem, Edna Patricia Delgado y José Reginaldo Pérez Vail, 
+coordinadores de los demás equipos, y a lo s investigadores, María Vicente Méndez, 
+Oswaldo Ajcot Damián y Sebastián Carrillo Choc, que aportaron datos valiosos sobre 
+el idioma. Un agradecimiento especial a María Beatriz Par Sapón y Juventino de 
+Jesús Pérez Alonzo, por su dedicación y esfuerzo en la revisión, corrección y preparación de la versión final del documento.   A Telma Angelina Can Pixabaj, coordinadora del equipo Uspanteko, por su entereza, 
+dedicación y, sobre todo, una insuperable paciencia durante los años que duró el 
+Proyecto. A Nikte’ María Juliana Sis Ib oy, Directora Ejecutiva de OKMA y a todos 
+los compañeros de OKMA.  A la Academia de las Lenguas Mayas de Guatemala, especialmente a la Comunidad Lingüística Uspanteka, por el apoyo que nos brindó durante la ejecución de este 
+proyecto. 
+ A la Agencia Donante, Endangered Langua ges Documentation Programme (ELDP) 
+de la Universidad de Londres, ya que si n su apoyo, la investigación no habría sido 
+posible. Y a cada una de las personas ha blantes del Uspant eko que brindaron 
+información, porque fue de vital importancia  para la elaboración del diccionario. En 
+general, expresamos nuestro profundo agra decimiento a todas aquellas personas que 
+de una u otra forma contribuyeron para que esta obra pudiera llevarse a cabo.  Finalmente agradecemos al Ministerio de  Relaciones Exteriores de Noruega -MFA- 
+por el financiamiento para la publicación de este material. 
+ 
+ La Antigua Guatemala, abril de 2007. 
+--------------------------------------------------Retrieved metadata: {'page': 0, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ investigadores encargados de la recolección de datos, que también son hablantes de 
+este idioma, acudieron a otras personas en cad a comunidad visitada para obtener más 
+información. En algunos casos fue necesario  acudir a personas especialistas, como 
+comadronas, curanderos y otros para obtener información sobre palabras 
+especializadas y procesos. Para su escritura  se ha aplicado el alfabeto de la 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: ¿Neen chiki' li? 
+
+Model output (or obfuscated gloss): INT PART-ENF COM 
+Expected Gloss:INT PART-ENF DEM 
+ Translation: Que sera eso. 
+
+"gloss: INT PART-ENF DEM,
+explanation: This sentence consists of three words:
+
+- 'Neen' is an interrogative pronoun (INT). It's likely a question word meaning \"what\" or \"which\". (confidence: 0.9)
+- 'chik-i'' can be broken down as: 'chik' (particle, PART) and '-i'' (emphatic suffix, ENF). The particle 'chik' might indicate some kind of aspect or emphasis, while '-i'' is an emphatic marker. (confidence: 0.8)
+- 'li' is a demonstrative pronoun (DEM), likely meaning \"this\" or \"that\". (confidence: 0.8)
+
+So the whole sentence '\u00bfNeen chiki' li?' can be glossed as 'INT PART-ENF DEM', which might mean something like \"What is this?\" or \"Which one is this?\",
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+- The list of abbreviations at the end of the document, which includes INT for \"interrogative\" and DEM for \"demonstrative\".
+- While 'chik' and '-i'' are not explicitly defined in the provided context, the use of particles and emphatic markers is common in many languages. The '-i'' suffix resembles emphatic markers in other Mayan languages.
+- The document doesn't provide direct information about these specific words, so some inferences were made based on general linguistic knowledge and the context of the sentence structure.
+
+Confidence scores were assigned based on how closely each word or morpheme matched information provided in the grammar document or general linguistic principles. The interrogative pronoun received a higher confidence score as it's a common grammatical feature, while the particle and demonstrative received slightly lower scores due to the lack of explicit information in the provided context."--------------------------------------------------
+Retrieved metadata: {'page': 18, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ FUT futuro    GEN genitivo 
+IM imperfectivo/imperfecto  INC incompletivo INCL inclusivo   INF infinitivo 
+INM inmediato/inmediatito  INS instrumento/instrumental 
+INT interrogativo   IRR irreal ITR intransitivizador  ITS intensificador LEJ lejano (tiempo)  LOC locativo MED medida   MEN mensurativo MOV movimiento   NEG negativo 
+P posicional   PAS pasivo 
+PER perfectivo/perfecto  PL plural POS posesivo   POT potencial PP participio perfecto  PRG progresivo PSD pasado   RCT tiempo reciente 
+REC recíproco   REF referencial 
+RFX reflexivo   S sustantivo SV sustantivo verbal  SAB sustantivo abstracto SC sufijo de categoría  SS sustantivizador SUB subordinador   TAM tiempo/aspecto/modo 
+TEM tema    TRN transitivizador 
+V verbo    VBL verbalizador VER versito    VI verbo intransitivo VT verbo transitivo  VTD verbo transitivo derivado VTE vocal temática   VTR verbo transitivo radica 
+--------------------------------------------------Retrieved metadata: {'page': 8, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Gramática básica 
+ 
+Alfabeto 
+En este diccionario se usa el alfabeto of icial del Uspanteko que consta de 22 
+consonantes y 10 vocales. Sin embargo, se empleó un signo diacrítico, el cual 
+consiste en el uso del acento orto gráfico sobre las vocales con tono. 
+El alfabeto: a, aa, b’, ch, ch’, e, ee, i, ii, j, k, k’, l, m, n, o, oo, p, q, q’, r, s, t, t’, tz, tz’, 
+u, uu, w, x, y, ’.  
+Categorías de flexión 
+A continuación se presentan los afijos flexi vos que tiene el idioma y que agregan 
+diferentes tipos de información gramatical. 
+ 
+Tiempo/aspecto 
+En Uspanteko se distinguen los siguientes marcadores de tiempo/aspecto: 
+completivo, incompletivo, progresivo y perfectivo. Estos marcadores se muestran dentro del siguiente cuadro: 
+ 
+Tiempo/aspecto Marcador Descripción 
+Completivo x- 
+ 
+ø- -Este prefijo marca completivo tanto en verbos 
+transitivos como en intransitivos. 
+-Este alomorfo generalmente se emplea cuando los 
+dos argumentos del verbo transitivo corresponden a terceras personas. 
+Incompletivo 
+Habitual t-  
+ti-  
+ 
+  
+ø- -Generalmente se emplea este morfema antes de vocales. 
+-Este morfema se emplea antes de consonantes. Los morfemas t- y ti- se emplean en verbos intransitivos 
+únicamente cuando el sujeto es tercera persona. Con 
+verbos transitivos se emplea únicamente cuando el objeto es tercera persona. 
+-En verbos intransitivos se emplea cuando el sujeto 
+no es tercera persona y en verbos transitivos se emplea sólo cuando el objeto no es tercera persona. 
+Progresivo tijin Este marcador se utiliza antes de un verbo transitivo o 
+intransitivo con marcador incompletivo. 
+--------------------------------------------------Retrieved metadata: {'page': 6, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Rl o –VRn más el sufijo de categoría –ik. Tienen dos 
+formas paradigmáticas; el primero es un ver bo intransitivo que se deriva a través del 
+sufijo –VRb’ o -ar el cual se agrega después de la base formada por –VRl. En este 
+caso, si es posible, se usa primera persona singular como sujeto, de lo contrario se utiliza tercera singular. La estructura es la siguiente: T/A - A1s/A3s - raíz posicional 
+- base formada por –V
+Rl - SC. 
+ Los adverbios tienen como entrada principal los adverbios mismos. 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: Xche' sik' anm re. 
+
+Model output (or obfuscated gloss): COM-decir yo mujer él/ella 
+Expected Gloss:COM-decir AFE mujer él/ella 
+ Translation: Dijo la pobre mujer a él. 
+
+"gloss: COM-decir(0.9) yo(0.7) mujer(0.9) el/ella(0.9),
+
+explanation: This sentence consists of four words:
+- 'Xche'' can be broken down as: 'x-' (completive aspect marker, COM), 'che'' (verb root meaning 'to say' or 'to tell'). (confidence: 0.9)
+- 'sik'' is glossed as 'yo' (I/me), but this is uncertain and might need correction. (confidence: 0.7)
+- 'anm' is a noun meaning 'mujer' (woman). (confidence: 0.9)
+- 're' is a pronoun meaning '\u00e9l/ella' (he/she). (confidence: 0.9)
+
+So the whole sentence 'Xche' sik' anm re' can be glossed as 'COM-decir yo mujer \u00e9l/ella', which roughly translates to \"The woman said to him/her\" or \"She said to him/her\".
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+- The 'Tiempo/aspecto' (Tense/aspect) section to identify the completive aspect marker 'x-'.
+- The example sentences in the document that used 'x-' as a completive aspect marker, particularly in verbs like 'x-\u00f8-in-tuk'' (I pushed it).
+- The document doesn't provide direct information about 'sik'', 'anm', or 're', so these are maintained from the original gloss.
+- The overall structure of the sentence is inferred based on the completive aspect marker and the glosses provided.
+
+Confidence scores were assigned based on how closely each word or morpheme matched information provided in the grammar document. Higher scores (closer to 1.0) indicate a strong direct match, while lower scores (closer to 0.5) indicate a more tentative match based on context or inference. The lower confidence for 'sik'' reflects the uncertainty about its gloss as 'yo', which might need further verification or correction."--------------------------------------------------
+Retrieved metadata: {'page': 6, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Rl o –VRn más el sufijo de categoría –ik. Tienen dos 
+formas paradigmáticas; el primero es un ver bo intransitivo que se deriva a través del 
+sufijo –VRb’ o -ar el cual se agrega después de la base formada por –VRl. En este 
+caso, si es posible, se usa primera persona singular como sujeto, de lo contrario se utiliza tercera singular. La estructura es la siguiente: T/A - A1s/A3s - raíz posicional 
+- base formada por –V
+Rl - SC. 
+ Los adverbios tienen como entrada principal los adverbios mismos. 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+--------------------------------------------------Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 11, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Los marcadores ergativos funcionan como agentes (sujetos transitivos) como en (4) y 
+como poseedores como en los ejemplos en (5).  
+(4) a. x-ø- in-tuk’   ‘lo empujé’ 
+ COM-A3s-E1s-empujar 
+ b. x-ø- a-tuk’   ‘lo empujaste’ 
+  COM-A3s-E2s-empujar  c.  x-ø- ø-tuk’   ‘lo empujó’ 
+ COM-A3s-E3s-empujar 
+ d. x-ø- w-il/x-ø- inw- il  ‘lo vi’ 
+ COM-A3s-E1s-ver/COM-A3s-E1s-ver 
+ e. x-ø- q-il    ‘lo vimos’ 
+ COM-A3s-E1p-ver  f. x-ø- aw-il  taq ‘lo vieron Uds.’ 
+ COM-A3s-E2s-ver PL  (5) a.  w-ixíim ‘mi maíz’ 
+ b. aw-ixíim ‘tu maíz’ 
+ c.  r-ixíim  ‘su maíz’ 
+ d. q-ixíim  ‘nuestro maíz’ 
+ e.  aw-ixim- aq ‘maíz de Uds.’ 
+ f.  r-ixim- aq ‘maíz de ellos’ 
+ (6) a. in-tiko’n ‘mi siembra’ 
+ b. a-tiko’n ‘tu siembra’ 
+ c.  j-tiko’n ‘su siembra’ 
+ d. qa-tiko’n ‘nuestra siembra’ 
+ e.  a-tikó’n- aq ‘siembra de Uds.’ 
+ f.  j-tiko’n- aq ‘siembra de ellos’ 
+ Plurales 
+Basado en los datos obtenidos se encontró  que en Uspanteko no existen muchos 
+sustantivos ni adjetivos con sufijo plural. Es común encontrar este tipo de sufijo con 
+apellidos, ya que es en donde se encuentran más casos. Tanto con adjetivos como con 
+sustantivos se emplea el sufijo pluralizador - aq. 
+ Otro caso en donde se encuentran marcador es plurales es con personas gramaticales. 
+En estos casos se emplea - aq cuando la persona gramati cal funciona como poseedor. 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: Iin xintach' juun jun qati' rex. 
+
+Model output (or obfuscated gloss): yo COM-E1S-encontrar-DIR uno uno CONJ-carne DIR 
+Expected Gloss:yo COM-E1S-encontrar-DIR uno uno E1P-carne verde 
+ Translation: Yo encontre una carne verde (cruda). 
+
+"gloss: yo COM-E1S-encontrar-DIR uno uno E1P-carne verde,
+explanation: This sentence consists of seven words:
+
+- 'Iin' is the first person singular pronoun \"yo\" (I). (confidence: 1.0)
+- 'xintach'' can be broken down as: 'x-' (completive aspect marker, COM), 'in-' (first person singular ergative marker, E1S), 'ta'-' (verb root meaning 'encontrar' or 'find'), '-ch'' (directional suffix, DIR). (confidence: 0.9)
+- 'juun' is a numeral meaning \"uno\" (one). (confidence: 1.0)
+- 'jun' is repeated, also meaning \"uno\" (one). This repetition might have an emphatic or distributive function. (confidence: 1.0)
+- 'qati'' can be analyzed as: 'qa-' (first person plural ergative marker, E1P), 'ti'' (likely meaning 'carne' or 'meat'). (confidence: 0.8)
+- 'rex' is an adjective meaning \"verde\" (green). (confidence: 0.7)
+
+The whole sentence 'Iin xintach' juun jun qati' rex' can be glossed as 'yo COM-E1S-encontrar-DIR uno uno E1P-carne verde', which roughly translates to \"I found one piece of our green meat\" or \"I found a single piece of our green meat\".
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+- The 'Tiempo/aspecto' (Tense/aspect) section to identify the completive aspect marker 'x-'.
+- The 'Marcadores de persona' (Person markers) section to identify the first person singular ergative prefix 'in-' and the first person plural ergative prefix 'qa-'.
+- The example sentences that used 'x-' as a completive aspect marker and 'in-' as a first person singular ergative marker.
+- The information about directional suffixes, though the specific meaning of '-ch'' is inferred from context.
+- The numeral 'jun' meaning 'one' which appeared in previous examples.
+
+The grammar document didn't provide specific information about the words 'ti'' (meat) or 'rex' (green), so these glosses are based on context and the given Spanish gloss. The confidence scores reflect the degree of match with the grammar document, with lower scores for items not explicitly covered in the provided context."--------------------------------------------------
+Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+--------------------------------------------------Retrieved metadata: {'page': 11, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Los marcadores ergativos funcionan como agentes (sujetos transitivos) como en (4) y 
+como poseedores como en los ejemplos en (5).  
+(4) a. x-ø- in-tuk’   ‘lo empujé’ 
+ COM-A3s-E1s-empujar 
+ b. x-ø- a-tuk’   ‘lo empujaste’ 
+  COM-A3s-E2s-empujar  c.  x-ø- ø-tuk’   ‘lo empujó’ 
+ COM-A3s-E3s-empujar 
+ d. x-ø- w-il/x-ø- inw- il  ‘lo vi’ 
+ COM-A3s-E1s-ver/COM-A3s-E1s-ver 
+ e. x-ø- q-il    ‘lo vimos’ 
+ COM-A3s-E1p-ver  f. x-ø- aw-il  taq ‘lo vieron Uds.’ 
+ COM-A3s-E2s-ver PL  (5) a.  w-ixíim ‘mi maíz’ 
+ b. aw-ixíim ‘tu maíz’ 
+ c.  r-ixíim  ‘su maíz’ 
+ d. q-ixíim  ‘nuestro maíz’ 
+ e.  aw-ixim- aq ‘maíz de Uds.’ 
+ f.  r-ixim- aq ‘maíz de ellos’ 
+ (6) a. in-tiko’n ‘mi siembra’ 
+ b. a-tiko’n ‘tu siembra’ 
+ c.  j-tiko’n ‘su siembra’ 
+ d. qa-tiko’n ‘nuestra siembra’ 
+ e.  a-tikó’n- aq ‘siembra de Uds.’ 
+ f.  j-tiko’n- aq ‘siembra de ellos’ 
+ Plurales 
+Basado en los datos obtenidos se encontró  que en Uspanteko no existen muchos 
+sustantivos ni adjetivos con sufijo plural. Es común encontrar este tipo de sufijo con 
+apellidos, ya que es en donde se encuentran más casos. Tanto con adjetivos como con 
+sustantivos se emplea el sufijo pluralizador - aq. 
+ Otro caso en donde se encuentran marcador es plurales es con personas gramaticales. 
+En estos casos se emplea - aq cuando la persona gramati cal funciona como poseedor. 
+--------------------------------------------------Retrieved metadata: {'page': 6, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Rl o –VRn más el sufijo de categoría –ik. Tienen dos 
+formas paradigmáticas; el primero es un ver bo intransitivo que se deriva a través del 
+sufijo –VRb’ o -ar el cual se agrega después de la base formada por –VRl. En este 
+caso, si es posible, se usa primera persona singular como sujeto, de lo contrario se utiliza tercera singular. La estructura es la siguiente: T/A - A1s/A3s - raíz posicional 
+- base formada por –V
+Rl - SC. 
+ Los adverbios tienen como entrada principal los adverbios mismos. 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: Xche' re sik' anm peyor xawalq'aajch qe, 
+
+Model output (or obfuscated gloss): AFE-dice DIR AFE mujer peor COM-E2S-SREL-AGT-DIR PART 
+Expected Gloss:COM-dice él/ella AFE mujer peor COM-E2S-robar-AGT-DIR PART 
+ Translation: Le dijo a la pobre mujer, peor si lo robastes. 
+
+"gloss: COM-decir DIR AFE mujer peor COM-E2S-robar-TRVZ-DIR PART,
+
+explanation: This sentence consists of seven words or morphemes:
+
+- 'x-' is the completive aspect marker (COM). (confidence: 1.0)
+- 'che'' is the verb root meaning 'decir' (to say). (confidence: 0.9)
+- 're' is likely a directional particle (DIR). (confidence: 0.8)
+- 'sik'' is glossed as AFE, which might stand for 'affective' or another similar category. (confidence: 0.7)
+- 'anm' means 'mujer' (woman). (confidence: 0.9)
+- 'peyor' is a Spanish loanword meaning 'peor' (worse). (confidence: 1.0)
+- 'x-aw-alq'-aj-ch' can be broken down as:
+  - 'x-' is again the completive aspect marker (COM). (confidence: 1.0)
+  - 'aw-' is the 2nd person singular ergative prefix (E2S). (confidence: 1.0)
+  - 'alq'' is likely the verb root meaning 'robar' (to steal). (confidence: 0.8)
+  - '-aj' is a transitivizer suffix (TRVZ). (confidence: 0.9)
+  - '-ch' is a directional suffix (DIR). (confidence: 0.9)
+- 'qe' is glossed as a particle (PART). (confidence: 0.8)
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+- The 'Tiempo/aspecto' section to identify the completive aspect marker 'x-'.
+- The 'Marcadores de persona' section to identify the 2nd person singular ergative prefix 'aw-'.
+- The example sentences that showed the use of directional particles and suffixes.
+- The information about transitivizer suffixes for verbs.
+- The general structure of verbal complexes in Uspanteko.
+
+Confidence scores were assigned based on how closely each word or morpheme matched information provided in the grammar document. Higher scores (closer to 1.0) indicate a strong direct match, while lower scores (closer to 0.7) indicate a more tentative match based on context or inference. The lower confidence for 'sik'' and the verb root 'alq'' reflects the fact that their exact meanings are inferred rather than explicitly stated in the document."--------------------------------------------------
+Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+--------------------------------------------------Retrieved metadata: {'page': 6, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Rl o –VRn más el sufijo de categoría –ik. Tienen dos 
+formas paradigmáticas; el primero es un ver bo intransitivo que se deriva a través del 
+sufijo –VRb’ o -ar el cual se agrega después de la base formada por –VRl. En este 
+caso, si es posible, se usa primera persona singular como sujeto, de lo contrario se utiliza tercera singular. La estructura es la siguiente: T/A - A1s/A3s - raíz posicional 
+- base formada por –V
+Rl - SC. 
+ Los adverbios tienen como entrada principal los adverbios mismos. 
+--------------------------------------------------Retrieved metadata: {'page': 18, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ FUT futuro    GEN genitivo 
+IM imperfectivo/imperfecto  INC incompletivo INCL inclusivo   INF infinitivo 
+INM inmediato/inmediatito  INS instrumento/instrumental 
+INT interrogativo   IRR irreal ITR intransitivizador  ITS intensificador LEJ lejano (tiempo)  LOC locativo MED medida   MEN mensurativo MOV movimiento   NEG negativo 
+P posicional   PAS pasivo 
+PER perfectivo/perfecto  PL plural POS posesivo   POT potencial PP participio perfecto  PRG progresivo PSD pasado   RCT tiempo reciente 
+REC recíproco   REF referencial 
+RFX reflexivo   S sustantivo SV sustantivo verbal  SAB sustantivo abstracto SC sufijo de categoría  SS sustantivizador SUB subordinador   TAM tiempo/aspecto/modo 
+TEM tema    TRN transitivizador 
+V verbo    VBL verbalizador VER versito    VI verbo intransitivo VT verbo transitivo  VTD verbo transitivo derivado VTE vocal temática   VTR verbo transitivo radica 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: xawelq'aajch qe rik'il kristyaan, 
+
+Model output (or obfuscated gloss): COM-PREP-robar-AGT-DIR PART E3S-SREL PART 
+Expected Gloss:COM-E2S-robar-AGT-DIR PART E3S-SREL persona 
+ Translation: Peor si lo robastes con la gente. 
+
+"gloss: COM-E2S-robar-VT-DIR PART E3S-PREP persona,
+explanation: This sentence consists of three main components:
+
+1. \"xawelq'aajch\" can be broken down as:
+   - \"x-\": completive aspect marker (COM) (confidence: 1.0)
+   - \"aw-\": 2nd person singular ergative prefix (E2S) (confidence: 1.0)
+   - \"elq'\": root meaning \"robar\" (steal) (confidence: 0.9)
+   - \"-aaj\": verbal transitive suffix (VT) (confidence: 0.8)
+   - \"-ch\": directional suffix (DIR) (confidence: 0.9)
+
+2. \"qe\": particle (PART), possibly a focus or emphasis marker (confidence: 0.7)
+
+3. \"rik'il kristyaan\":
+   - \"r-\": 3rd person singular ergative prefix (E3S) (confidence: 1.0)
+   - \"ik'iil\": likely a preposition (PREP) meaning \"with\" or \"to\" (confidence: 0.8)
+   - \"kristyaan\": noun meaning \"persona\" (person) (confidence: 0.9)
+
+The whole sentence \"xawelq'aajch qe rik'il kristyaan\" can be glossed as \"COM-E2S-robar-VT-DIR PART E3S-PREP persona\", which roughly means \"You stole it from/with the person\".
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+1. The \"Tiempo/aspecto\" (Tense/aspect) section to identify the completive aspect marker \"x-\".
+2. The \"Marcadores ergativos\" (Ergative markers) table to identify \"aw-\" as the 2nd person singular ergative prefix and \"r-\" as the 3rd person singular ergative prefix.
+3. The \"Sufijos de categor\u00eda para verbos\" (Category suffixes for verbs) section to infer the presence of the transitive verb suffix \"-aaj\", although it's not explicitly mentioned in the given context.
+4. The directional suffix \"-ch\" is inferred from similar examples in the document, though not explicitly explained in the given context.
+5. The particle \"qe\" is not explicitly explained in the given context, so its function is inferred.
+6. The preposition \"ik'iil\" is inferred from context, as the document doesn't provide a list of prepositions.
+7. The noun \"kristyaan\" (persona/person) is recognized as a Spanish loanword, which is common in Mayan languages.
+
+Confidence scores were assigned based on how closely each morpheme matched information provided in the grammar document. Higher scores (closer to 1.0) indicate a strong direct match, while lower scores (closer to 0.7) indicate a more tentative match based on context or inference."--------------------------------------------------
+Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 6, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Rl o –VRn más el sufijo de categoría –ik. Tienen dos 
+formas paradigmáticas; el primero es un ver bo intransitivo que se deriva a través del 
+sufijo –VRb’ o -ar el cual se agrega después de la base formada por –VRl. En este 
+caso, si es posible, se usa primera persona singular como sujeto, de lo contrario se utiliza tercera singular. La estructura es la siguiente: T/A - A1s/A3s - raíz posicional 
+- base formada por –V
+Rl - SC. 
+ Los adverbios tienen como entrada principal los adverbios mismos. 
+--------------------------------------------------Retrieved metadata: {'page': 11, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Los marcadores ergativos funcionan como agentes (sujetos transitivos) como en (4) y 
+como poseedores como en los ejemplos en (5).  
+(4) a. x-ø- in-tuk’   ‘lo empujé’ 
+ COM-A3s-E1s-empujar 
+ b. x-ø- a-tuk’   ‘lo empujaste’ 
+  COM-A3s-E2s-empujar  c.  x-ø- ø-tuk’   ‘lo empujó’ 
+ COM-A3s-E3s-empujar 
+ d. x-ø- w-il/x-ø- inw- il  ‘lo vi’ 
+ COM-A3s-E1s-ver/COM-A3s-E1s-ver 
+ e. x-ø- q-il    ‘lo vimos’ 
+ COM-A3s-E1p-ver  f. x-ø- aw-il  taq ‘lo vieron Uds.’ 
+ COM-A3s-E2s-ver PL  (5) a.  w-ixíim ‘mi maíz’ 
+ b. aw-ixíim ‘tu maíz’ 
+ c.  r-ixíim  ‘su maíz’ 
+ d. q-ixíim  ‘nuestro maíz’ 
+ e.  aw-ixim- aq ‘maíz de Uds.’ 
+ f.  r-ixim- aq ‘maíz de ellos’ 
+ (6) a. in-tiko’n ‘mi siembra’ 
+ b. a-tiko’n ‘tu siembra’ 
+ c.  j-tiko’n ‘su siembra’ 
+ d. qa-tiko’n ‘nuestra siembra’ 
+ e.  a-tikó’n- aq ‘siembra de Uds.’ 
+ f.  j-tiko’n- aq ‘siembra de ellos’ 
+ Plurales 
+Basado en los datos obtenidos se encontró  que en Uspanteko no existen muchos 
+sustantivos ni adjetivos con sufijo plural. Es común encontrar este tipo de sufijo con 
+apellidos, ya que es en donde se encuentran más casos. Tanto con adjetivos como con 
+sustantivos se emplea el sufijo pluralizador - aq. 
+ Otro caso en donde se encuentran marcador es plurales es con personas gramaticales. 
+En estos casos se emplea - aq cuando la persona gramati cal funciona como poseedor. 
+--------------------------------------------------Retrieved metadata: {'page': 2, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ A Romelia Mó Isem, Edna Patricia Delgado y José Reginaldo Pérez Vail, 
+coordinadores de los demás equipos, y a lo s investigadores, María Vicente Méndez, 
+Oswaldo Ajcot Damián y Sebastián Carrillo Choc, que aportaron datos valiosos sobre 
+el idioma. Un agradecimiento especial a María Beatriz Par Sapón y Juventino de 
+Jesús Pérez Alonzo, por su dedicación y esfuerzo en la revisión, corrección y preparación de la versión final del documento.   A Telma Angelina Can Pixabaj, coordinadora del equipo Uspanteko, por su entereza, 
+dedicación y, sobre todo, una insuperable paciencia durante los años que duró el 
+Proyecto. A Nikte’ María Juliana Sis Ib oy, Directora Ejecutiva de OKMA y a todos 
+los compañeros de OKMA.  A la Academia de las Lenguas Mayas de Guatemala, especialmente a la Comunidad Lingüística Uspanteka, por el apoyo que nos brindó durante la ejecución de este 
+proyecto. 
+ A la Agencia Donante, Endangered Langua ges Documentation Programme (ELDP) 
+de la Universidad de Londres, ya que si n su apoyo, la investigación no habría sido 
+posible. Y a cada una de las personas ha blantes del Uspant eko que brindaron 
+información, porque fue de vital importancia  para la elaboración del diccionario. En 
+general, expresamos nuestro profundo agra decimiento a todas aquellas personas que 
+de una u otra forma contribuyeron para que esta obra pudiera llevarse a cabo.  Finalmente agradecemos al Ministerio de  Relaciones Exteriores de Noruega -MFA- 
+por el financiamiento para la publicación de este material. 
+ 
+ La Antigua Guatemala, abril de 2007. 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: laq b'ee tine' wi' ajtzoo' tachapch takamsaj 
+
+Model output (or obfuscated gloss): COM camino INC-ENF EXS E1S INC-E2S-agarrar-DEM INC-E2S-morir-CAU 
+Expected Gloss:PREP camino INC-ENF EXS chompipe INC-E2S-agarrar-DIR INC-E2S-morir-CAU 
+ Translation: A lo mejor que en el camino estava cuando lo tragistes y lo vas a matar. 
+
+"gloss: PREP camino INC-ENF EXS alfarero(0.8) INC-E2S-agarrar-DIR INC-E2S-morir-CAU,
+
+explanation: This sentence consists of seven words/morphemes:
+
+- 'laq' is a preposition (PREP), likely meaning 'in' or 'on'. (confidence: 0.9)
+- 'b'ee' means 'camino' (road/path). (confidence: 1.0)
+- 'ti-ne'' can be broken down as: 'ti-' (incompletive aspect marker, INC), 'ne'' (possibly an emphatic particle, ENF). (confidence: 0.9)
+- 'wi'' is glossed as 'EXS' (existential). (confidence: 0.9)
+- 'ajtzoo'' seems to be a noun, possibly related to 'ajtz'aq' (alfarero/potter). (confidence: 0.8)
+- 't-a-chap-ch' can be broken down as: 't-' (INC), 'a-' (2nd person singular ergative, E2S), 'chap' (verb root 'agarrar'/to grab), '-ch' (directional suffix, DIR). (confidence: 0.9)
+- 't-a-kam-s\u00e1aj' can be broken down as: 't-' (INC), 'a-' (E2S), 'kam' (verb root 'morir'/to die), '-s\u00e1aj' (causative suffix, CAU). (confidence: 0.9)
+
+The whole sentence 'laq b'ee tine' wi' ajtzoo' tachapch takamsaj' can be glossed as 'PREP camino INC-ENF EXS alfarero INC-E2S-agarrar-DIR INC-E2S-morir-CAU', which roughly means \"On the road, there is a potter that you grab and cause to die.\"
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+- The 'Tiempo/aspecto' (Tense/aspect) section to identify the incompletive aspect marker 't-/ti-'.
+- The 'Marcadores de persona' (Person markers) section to identify the 2nd person singular ergative prefix 'a-'.
+- The example word 'ajtz'aq' meaning 'alfarero' (potter) to infer the possible meaning of 'ajtzoo''.
+- The information on suffixes, particularly the causative suffix '-s\u00e1aj' for transitive verbs.
+- The preposition 'laq' which appeared in previous examples.
+- The noun 'b'ee' (camino/road) which appeared in one of the example sentences.
+
+Confidence scores were assigned based on how closely each word or morpheme matched information provided in the grammar document. Higher scores indicate a strong direct match, while lower scores indicate a more tentative match based on context or inference. The lower confidence for 'ajtzoo'' reflects the fact that its exact meaning is inferred rather than explicitly stated in the document."--------------------------------------------------
+Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+--------------------------------------------------Retrieved metadata: {'page': 18, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ FUT futuro    GEN genitivo 
+IM imperfectivo/imperfecto  INC incompletivo INCL inclusivo   INF infinitivo 
+INM inmediato/inmediatito  INS instrumento/instrumental 
+INT interrogativo   IRR irreal ITR intransitivizador  ITS intensificador LEJ lejano (tiempo)  LOC locativo MED medida   MEN mensurativo MOV movimiento   NEG negativo 
+P posicional   PAS pasivo 
+PER perfectivo/perfecto  PL plural POS posesivo   POT potencial PP participio perfecto  PRG progresivo PSD pasado   RCT tiempo reciente 
+REC recíproco   REF referencial 
+RFX reflexivo   S sustantivo SV sustantivo verbal  SAB sustantivo abstracto SC sufijo de categoría  SS sustantivizador SUB subordinador   TAM tiempo/aspecto/modo 
+TEM tema    TRN transitivizador 
+V verbo    VBL verbalizador VER versito    VI verbo intransitivo VT verbo transitivo  VTD verbo transitivo derivado VTE vocal temática   VTR verbo transitivo radica 
+--------------------------------------------------Retrieved metadata: {'page': 11, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Los marcadores ergativos funcionan como agentes (sujetos transitivos) como en (4) y 
+como poseedores como en los ejemplos en (5).  
+(4) a. x-ø- in-tuk’   ‘lo empujé’ 
+ COM-A3s-E1s-empujar 
+ b. x-ø- a-tuk’   ‘lo empujaste’ 
+  COM-A3s-E2s-empujar  c.  x-ø- ø-tuk’   ‘lo empujó’ 
+ COM-A3s-E3s-empujar 
+ d. x-ø- w-il/x-ø- inw- il  ‘lo vi’ 
+ COM-A3s-E1s-ver/COM-A3s-E1s-ver 
+ e. x-ø- q-il    ‘lo vimos’ 
+ COM-A3s-E1p-ver  f. x-ø- aw-il  taq ‘lo vieron Uds.’ 
+ COM-A3s-E2s-ver PL  (5) a.  w-ixíim ‘mi maíz’ 
+ b. aw-ixíim ‘tu maíz’ 
+ c.  r-ixíim  ‘su maíz’ 
+ d. q-ixíim  ‘nuestro maíz’ 
+ e.  aw-ixim- aq ‘maíz de Uds.’ 
+ f.  r-ixim- aq ‘maíz de ellos’ 
+ (6) a. in-tiko’n ‘mi siembra’ 
+ b. a-tiko’n ‘tu siembra’ 
+ c.  j-tiko’n ‘su siembra’ 
+ d. qa-tiko’n ‘nuestra siembra’ 
+ e.  a-tikó’n- aq ‘siembra de Uds.’ 
+ f.  j-tiko’n- aq ‘siembra de ellos’ 
+ Plurales 
+Basado en los datos obtenidos se encontró  que en Uspanteko no existen muchos 
+sustantivos ni adjetivos con sufijo plural. Es común encontrar este tipo de sufijo con 
+apellidos, ya que es en donde se encuentran más casos. Tanto con adjetivos como con 
+sustantivos se emplea el sufijo pluralizador - aq. 
+ Otro caso en donde se encuentran marcador es plurales es con personas gramaticales. 
+En estos casos se emplea - aq cuando la persona gramati cal funciona como poseedor. 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: i chwe taya' chiqeoj awaas 
+
+Model output (or obfuscated gloss): CONJ PP-SREL AGT-E2S-dar PREP-SREL-nosotros pecado 
+Expected Gloss:CONJ PREP-SREL INC-E2S-dar PREP-SREL-nosotros pecado 
+ Translation: y a mi me lo das es pecado. 
+
+"gloss: CONJ PREP-1PL.OBJ(?) INC-E2S-dar PREP-1PL.OBJ-1PL pecado,
+
+explanation: This sentence consists of five words:
+- 'i' is a conjunction (CONJ), likely meaning 'and' or 'that'. (confidence: 0.9)
+- 'chwe' is a prepositional phrase, likely composed of 'ch-' (preposition) and '-we' (1st person plural object marker). (confidence: 0.7)
+- 'taya'' can be broken down as: 't-' (incompletive aspect marker), 'a-' (2nd person singular ergative marker), 'ye'' (verb root meaning 'to give'). (confidence: 0.9)
+- 'chiqeoj' seems to be a complex form: 'chi-' (preposition), 'qe-' (1st person plural object marker), 'oj' (1st person plural marker). (confidence: 0.8)
+- 'awaas' is a noun meaning 'pecado' (sin). (confidence: 0.9)
+
+So the whole sentence 'i chwe taya' chiqeoj awaas' can be glossed as 'CONJ PREP-1PL.OBJ INC-E2S-dar PREP-1PL.OBJ-1PL pecado', which roughly means 'And to us you give our sin' or 'That you give us our sin'.
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+- The 'Tiempo/aspecto' (Tense/aspect) section to identify the incompletive aspect marker 't-'.
+- The 'Marcadores de persona' (Person markers) section to identify the 2nd person singular ergative prefix 'a-'.
+- The example sentences that showed the use of prepositions like 'ch-' and object markers.
+- The structure of complex prepositional phrases with person markers.
+
+I couldn't find direct information about 'chwe' and 'chiqeoj' in the provided grammar, so their analysis is based on inference from similar structures in the document. The confidence scores reflect the degree of certainty based on direct matches in the grammar (higher scores) versus inferred meanings (lower scores)."--------------------------------------------------
+Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 6, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Rl o –VRn más el sufijo de categoría –ik. Tienen dos 
+formas paradigmáticas; el primero es un ver bo intransitivo que se deriva a través del 
+sufijo –VRb’ o -ar el cual se agrega después de la base formada por –VRl. En este 
+caso, si es posible, se usa primera persona singular como sujeto, de lo contrario se utiliza tercera singular. La estructura es la siguiente: T/A - A1s/A3s - raíz posicional 
+- base formada por –V
+Rl - SC. 
+ Los adverbios tienen como entrada principal los adverbios mismos. 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+--------------------------------------------------Retrieved metadata: {'page': 1, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Comunidad Lingüística Uspanteka aprobado por la Academia de Lenguas Mayas de 
+Guatemala -ALMG-. 
+ 
+Cholaj Tzijb’al li Uspanteko  es una obra lexicográfica que busca fortalecer el 
+idioma a través de la documentación del léxi co para dar a conocer el significado de 
+las palabras, su contexto de uso y su forma escrita. Se espera también dar a conocer 
+el vocabulario con el fin de que sea inteligible para cualquier hablante, sin importar de qué región sea o qué variante utilice. Pe ro su uso no es restringido, ya que podrá 
+ser utilizado en la escuela, en el hogar o en cualquier ámbito donde el Uspanteko esté 
+presente. 
+ 
+¿Qué contiene?  
+ 
+El diccionario está ordenado de forma alfa bética, siguiendo el patrón del alfabeto 
+Uspanteko de La Academia de las Lenguas Mayas de Guatemala y específicamente por La Comunidad Lingüística Uspanteka. Su contenido, en cuanto al léxico, incluye sustantivos, verbos, adjetivos, adverbios y números. Se estructura por segmentos, 
+incluye una guía de uso, una gramátic a básica y un glosario español-Uspanteko. 
+ Agradecimientos: 
+ 
+Esta obra representa un esfuerzo c onjunto de OKMA como un centro de 
+investigación lingüística, además de habl antes del Uspanteko que brindaron su 
+colaboración durante la fase de investigaci ón (ver listado en la parte final del 
+diccionario). Fue de vital importancia durant e este proceso contar con los aportes de 
+investigadores que han realizado trabajos le xicográficos en otros idiomas Mayas, a 
+ellos manifestamos nuestro profundo agrad ecimiento; a: Ixkeem, Nora C. England, 
+asesora general del proyecto, por la coordinación, asesoría, definición del perfil y objetivos del diccionario, definición del formato y planificación de cada etapa del proyecto.  A B’alam Mateo Toledo, asesor del proyecto y co-coordinador del equipo 
+Awakateko. 
+ A Judith Aissen, Roberto Zavala, Enrique Palancar, Paulette Levy, Nick Evans, 
+Jonathan D. Amith, John Haviland, Robert  Laughlin, Kathryn Josserand (Q.E.P.D.), 
+Nicholas Hopkins y Laura Martin por dife rentes talleres impartidos que fueron de 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: chuch Dyos. 
+
+Model output (or obfuscated gloss): PREP-SREL Dios 
+Expected Gloss:PREP-SREL Dios 
+ Translation: Es pecado delante de Dios. 
+
+"gloss: PREP-REC(0.9) Dios(1.0),
+
+explanation: This sentence consists of two words:
+- 'chuch' can be broken down as: 'ch-' (preposition prefix, PREP) and 'uch' (reciprocal marker, REC). The 'ch-' prefix is likely a shortened form of 'chi' which is a common preposition in Mayan languages. (confidence: 0.9)
+- 'Dyoos' is a proper noun referring to 'God' (Dios in Spanish). It's a direct borrowing from Spanish. (confidence: 1.0)
+
+So the whole phrase 'chuch Dyos' can be glossed as 'PREP-REC Dios', which might mean something like 'with/to God' or 'in relation to God'.
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+- The list of abbreviations at the end of the document, which includes 'PREP' for preposition and 'REC' for reciprocal.
+- The general structure of Uspanteko morphology, which often involves prefixes attached to roots.
+- The fact that Spanish loanwords are common in Uspanteko, as evidenced by the presence of 'Dios' in its Spanish form.
+
+No direct information about the specific morpheme 'ch-' or 'uch' was found in the provided context, so the interpretation is based on general linguistic knowledge of Mayan languages and the given abbreviations. The high confidence for 'Dyoos' is due to its clear Spanish origin, while the slightly lower confidence for 'chuch' reflects the inference made about its morphological breakdown."--------------------------------------------------
+Retrieved metadata: {'page': 1, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Comunidad Lingüística Uspanteka aprobado por la Academia de Lenguas Mayas de 
+Guatemala -ALMG-. 
+ 
+Cholaj Tzijb’al li Uspanteko  es una obra lexicográfica que busca fortalecer el 
+idioma a través de la documentación del léxi co para dar a conocer el significado de 
+las palabras, su contexto de uso y su forma escrita. Se espera también dar a conocer 
+el vocabulario con el fin de que sea inteligible para cualquier hablante, sin importar de qué región sea o qué variante utilice. Pe ro su uso no es restringido, ya que podrá 
+ser utilizado en la escuela, en el hogar o en cualquier ámbito donde el Uspanteko esté 
+presente. 
+ 
+¿Qué contiene?  
+ 
+El diccionario está ordenado de forma alfa bética, siguiendo el patrón del alfabeto 
+Uspanteko de La Academia de las Lenguas Mayas de Guatemala y específicamente por La Comunidad Lingüística Uspanteka. Su contenido, en cuanto al léxico, incluye sustantivos, verbos, adjetivos, adverbios y números. Se estructura por segmentos, 
+incluye una guía de uso, una gramátic a básica y un glosario español-Uspanteko. 
+ Agradecimientos: 
+ 
+Esta obra representa un esfuerzo c onjunto de OKMA como un centro de 
+investigación lingüística, además de habl antes del Uspanteko que brindaron su 
+colaboración durante la fase de investigaci ón (ver listado en la parte final del 
+diccionario). Fue de vital importancia durant e este proceso contar con los aportes de 
+investigadores que han realizado trabajos le xicográficos en otros idiomas Mayas, a 
+ellos manifestamos nuestro profundo agrad ecimiento; a: Ixkeem, Nora C. England, 
+asesora general del proyecto, por la coordinación, asesoría, definición del perfil y objetivos del diccionario, definición del formato y planificación de cada etapa del proyecto.  A B’alam Mateo Toledo, asesor del proyecto y co-coordinador del equipo 
+Awakateko. 
+ A Judith Aissen, Roberto Zavala, Enrique Palancar, Paulette Levy, Nick Evans, 
+Jonathan D. Amith, John Haviland, Robert  Laughlin, Kathryn Josserand (Q.E.P.D.), 
+Nicholas Hopkins y Laura Martin por dife rentes talleres impartidos que fueron de 
+--------------------------------------------------Retrieved metadata: {'page': 16, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Abreviaturas usadas para in dicar clases gramaticales  
+ 
+ Clases    Subclases  
+ 
+adj. adjetivo adv. adverbio   A dverbios:  
+af. palabra afectiva  afirm. afirmativo apell. apellido   c. cantidad art. artículo   d. duda clas. clasificador  m. manera, modo conj. clasificador  neg. negación 
+dem. demostrativo  t. tiempo 
+dir. direccional encl. enclítico   Números:  
+f. frase   card. cardinal f. idiom. frase idiomática ord. ordinal hon. honorífico 
+int. interrogativo 
+interj.. interjección   Sustantivos:  
+med. medida   1a. ordinarios mov. movimiento  1b. cambia última vocal no clas. no clasificado  1c. cambia vocal no última 
+nom. nombre 
+núm. número   2a. compuestos part. partícula (no clasificado) sp. siempre poseído      (incluye los agregativos) pos. posicional  n.p. usualmente no poseído 
+prep. preposición  sup. supletivo 
+procl. proclítico  cs. compuesto 
+pron. pronombre  d.s. de sustantivo s. sustantivo s. rel. sustantivo relaciona sub. subordinador 
+top. topónimo 
+--------------------------------------------------Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 6, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Rl o –VRn más el sufijo de categoría –ik. Tienen dos 
+formas paradigmáticas; el primero es un ver bo intransitivo que se deriva a través del 
+sufijo –VRb’ o -ar el cual se agrega después de la base formada por –VRl. En este 
+caso, si es posible, se usa primera persona singular como sujeto, de lo contrario se utiliza tercera singular. La estructura es la siguiente: T/A - A1s/A3s - raíz posicional 
+- base formada por –V
+Rl - SC. 
+ Los adverbios tienen como entrada principal los adverbios mismos. 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: No si ri juun utiiw k'amownaqch qesélch, 
+
+Model output (or obfuscated gloss): no si DEM uno coyote recibir-PREP-PP-SREL bajar-DIR-DIR 
+Expected Gloss:no si DEM uno coyote recibir-AP-PP-DIR bajar-???-DIR 
+ Translation: No si un coyote lo traía, que venía vajando. 
+
+"gloss: no si DEM uno coyote recibir-AP-PERF-DIR bajar-DIR-DIR,
+explanation: This sentence consists of six words and their morphemes:
+
+1. 'no': Maintained as 'no' (negation). (confidence: 1.0)
+2. 'si': Maintained as 'si' (affirmation or conditional). (confidence: 1.0)
+3. 'ri': Maintained as 'DEM' (demonstrative). (confidence: 1.0)
+4. 'juun': Maintained as 'uno' (one). (confidence: 1.0)
+5. 'utiiw': Maintained as 'coyote'. (confidence: 1.0)
+6. 'k'am-ow-naq-ch': 
+   - 'k'am-': root meaning 'recibir' (receive)
+   - '-ow': changed from 'PREP' to 'AP' (antipassive) (confidence: 0.8)
+   - '-naq': changed from 'PP' to 'PERF' (perfective) (confidence: 0.9)
+   - '-ch': changed from 'SREL' to 'DIR' (directional) (confidence: 0.7)
+7. 'qes-el-ch':
+   - 'qes-': root meaning 'bajar' (go down)
+   - '-el': maintained as 'DIR' (directional)
+   - '-ch': maintained as 'DIR' (directional)
+
+The whole sentence \"No si ri juun utiiw k'amownaqch qes\u00e9lch\" is glossed as \"no si DEM uno coyote recibir-AP-PERF-DIR bajar-DIR-DIR\", which roughly translates to \"No, if that one coyote has received (something), it went down\".
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+1. The section on \"Tiempo/aspecto\" (Tense/aspect) to identify the perfective aspect, which is marked by '-naq' in intransitive verbs. This informed the change from 'PP' to 'PERF'.
+
+2. The \"Sufijos de categor\u00eda para verbos\" (Category suffixes for verbs) section, which mentions different suffixes for transitive and intransitive verbs. This suggested that '-ow' might be an antipassive marker (AP) rather than a preposition.
+
+3. The document doesn't explicitly mention the directional suffix '-ch', but it appears in several examples, supporting its classification as a directional marker.
+
+4. The demonstrative 'ri' and the numeral 'juun' (uno) are consistent with examples in the document.
+
+5. The document doesn't provide specific information about 'no', 'si', or 'utiiw', so these were maintained from the original gloss.
+
+Confidence scores were assigned based on how closely each morpheme matched information provided in the grammar document. Higher scores indicate a strong direct match, while lower scores indicate a more tentative match based on context or inference. The lower confidence for '-ow' as AP and '-ch' as DIR reflects the fact that their exact functions are inferred rather than explicitly stated in the document."--------------------------------------------------
+Retrieved metadata: {'page': 2, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ A Romelia Mó Isem, Edna Patricia Delgado y José Reginaldo Pérez Vail, 
+coordinadores de los demás equipos, y a lo s investigadores, María Vicente Méndez, 
+Oswaldo Ajcot Damián y Sebastián Carrillo Choc, que aportaron datos valiosos sobre 
+el idioma. Un agradecimiento especial a María Beatriz Par Sapón y Juventino de 
+Jesús Pérez Alonzo, por su dedicación y esfuerzo en la revisión, corrección y preparación de la versión final del documento.   A Telma Angelina Can Pixabaj, coordinadora del equipo Uspanteko, por su entereza, 
+dedicación y, sobre todo, una insuperable paciencia durante los años que duró el 
+Proyecto. A Nikte’ María Juliana Sis Ib oy, Directora Ejecutiva de OKMA y a todos 
+los compañeros de OKMA.  A la Academia de las Lenguas Mayas de Guatemala, especialmente a la Comunidad Lingüística Uspanteka, por el apoyo que nos brindó durante la ejecución de este 
+proyecto. 
+ A la Agencia Donante, Endangered Langua ges Documentation Programme (ELDP) 
+de la Universidad de Londres, ya que si n su apoyo, la investigación no habría sido 
+posible. Y a cada una de las personas ha blantes del Uspant eko que brindaron 
+información, porque fue de vital importancia  para la elaboración del diccionario. En 
+general, expresamos nuestro profundo agra decimiento a todas aquellas personas que 
+de una u otra forma contribuyeron para que esta obra pudiera llevarse a cabo.  Finalmente agradecemos al Ministerio de  Relaciones Exteriores de Noruega -MFA- 
+por el financiamiento para la publicación de este material. 
+ 
+ La Antigua Guatemala, abril de 2007. 
+--------------------------------------------------Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 0, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ investigadores encargados de la recolección de datos, que también son hablantes de 
+este idioma, acudieron a otras personas en cad a comunidad visitada para obtener más 
+información. En algunos casos fue necesario  acudir a personas especialistas, como 
+comadronas, curanderos y otros para obtener información sobre palabras 
+especializadas y procesos. Para su escritura  se ha aplicado el alfabeto de la 
+--------------------------------------------------Retrieved metadata: {'page': 6, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Rl o –VRn más el sufijo de categoría –ik. Tienen dos 
+formas paradigmáticas; el primero es un ver bo intransitivo que se deriva a través del 
+sufijo –VRb’ o -ar el cual se agrega después de la base formada por –VRl. En este 
+caso, si es posible, se usa primera persona singular como sujeto, de lo contrario se utiliza tercera singular. La estructura es la siguiente: T/A - A1s/A3s - raíz posicional 
+- base formada por –V
+Rl - SC. 
+ Los adverbios tienen como entrada principal los adverbios mismos. 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Original text: laq b'ee iin xinmuq wib' chirij juun chee'. 
+
+Model output (or obfuscated gloss): coyote camino SREL COM-E1S-enterrar SREL PREP-E3S-yo uno árbol 
+Expected Gloss:PREP camino yo COM-E1S-enterrar SREL PREP-E3S-SREL uno árbol 
+ Translation: En el camino yo me escondide tras de un árbol. 
+
+"gloss: PREP(0.9) camino(1.0) PRO1S(0.9) COM-A1S-enterrar(0.9) REFL(0.8) PREP-E3S-espalda(0.8) uno(1.0) \u00e1rbol(1.0),
+
+explanation: This sentence consists of eight words or morphemes:
+
+- 'laq' is a preposition (PREP), likely meaning 'on' or 'at' in this context. (confidence: 0.9)
+- 'b'ee' means 'camino' (road or path) in Spanish. (confidence: 1.0)
+- 'iin' is the first person singular pronoun (PRO1S), meaning 'I' or 'me'. (confidence: 0.9)
+- 'x-in-muq' can be broken down as: 'x-' (completive aspect marker, COM), 'in-' (first person singular absolutive marker, A1S), 'muq' (verb root meaning 'to bury' or 'to hide'). (confidence: 0.9)
+- 'wib'' appears to be a reflexive pronoun (REFL), possibly meaning 'myself'. (confidence: 0.8)
+- 'chi-r-ij' can be analyzed as: 'chi-' (preposition), 'r-' (third person singular ergative marker, E3S), 'ij' (likely meaning 'back' or 'behind'). (confidence: 0.8)
+- 'juun' means 'uno' (one) in Spanish. (confidence: 1.0)
+- 'chee'' means '\u00e1rbol' (tree) in Spanish. (confidence: 1.0)
+
+The whole sentence 'laq b'ee iin xinmuq wib' chirij juun chee'' can be glossed as 'PREP camino PRO1S COM-A1S-enterrar REFL PREP-E3S-espalda uno \u00e1rbol', which roughly translates to \"On the road, I hid myself behind a tree.\"
+
+how RAG was used: To generate this explanation, I used the following parts of the given Uspanteko grammar document:
+
+- The 'Tiempo/aspecto' (Tense/aspect) section to identify the completive aspect marker 'x-'.
+- The 'Marcadores de persona' (Person markers) section to identify the first person singular absolutive marker 'in-' and the third person singular ergative marker 'r-'.
+- The example sentences that used 'juun' for 'uno' (one) and 'chee'' for '\u00e1rbol' (tree).
+- The structure of complex words like 'chi-r-ij', which follows the pattern of preposition + ergative marker + root seen in other examples.
+
+Confidence scores were assigned based on how closely each word or morpheme matched information provided in the grammar document. Higher scores (closer to 1.0) indicate a strong direct match, while lower scores (closer to 0.8) indicate a more tentative match based on context or inference. The lower confidence for 'wib'' and 'chi-r-ij' reflects the fact that their exact meanings are inferred rather than explicitly stated in the document."--------------------------------------------------
+Retrieved metadata: {'page': 12, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Pero se encuentra taq cuando pluraliza a argumentos para diferenciar los marcadores 
+de personas singulares y plurales. 
+ 
+ 
+Apellidos (7) a. Ko'r  Ko’r aab'  ‘los de la familia o apellido Ko'r’ 
+ b. Tiw  Tiw aab'  ‘los de la familia o apellido Tiw’ 
+ c. Ajkot  Ajkot aab'  ‘los de la familia o apellido Ajkot’ 
+ d. Tum  Tum iib'  ‘los de la familia o apellido Tum’ 
+ Sustantivos (8) a. ajtz'aq  ‘alfarero’ ajtz'áqa b' ‘alfareros’ 
+ b. ajk'ay  ‘vendedor’ ajk'áyi b' ‘vendedores’ 
+ c. awaj  ‘animal’ awaj iib' ‘animales’ 
+ d. tz'ikin  ‘pájaro’  tz'ikin aab' ‘pájaros’ 
+ e. alk'wal  ‘hijo’  alk'walxél ib' ‘hijos’ 
+ f. alib’xeel ‘nuera’  alib’xél ib’ ‘nueras’ 
+ Plural de 2a y 3a persona como poseedores. 
+(9) a. a-tz'i'- aq ‘perro de Uds.’ 
+ b. j-tz'i'- aq ‘perro de ellos’ 
+ c.  a-tikó’n- aq ‘siembra de Uds.’ 
+ d. j-tiko’n- aq ‘siembra de ellos’ 
+ 
+Plural de 2a y 3a persona co mo argumentos predicativos 
+(10) a.  x-atw’in taq  ‘comieron  (Uds.)’ 
+ b. x-wín taq  ‘comieron  (ellos)’ 
+ c.  x-at-ø-yojaaj taq ‘les empujó (a Uds.)’ 
+ d. x-ø-ø-yojaaj taq ‘les empujó (a ellos)’ 
+ 
+ 
+Sufijos de categoría para verbos 
+En Uspanteko se encuentran sufijos de categoría, especialmente para diferenciar 
+verbos transitivos de verbos  intransitivos. Sin embargo, hay un sufijo de categoría 
+para verbos transitivos radicales y otro pa ra verbos transitivos derivados. Todos estos 
+se muestran en el siguiente cuadro. 
+--------------------------------------------------Retrieved metadata: {'page': 6, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Rl o –VRn más el sufijo de categoría –ik. Tienen dos 
+formas paradigmáticas; el primero es un ver bo intransitivo que se deriva a través del 
+sufijo –VRb’ o -ar el cual se agrega después de la base formada por –VRl. En este 
+caso, si es posible, se usa primera persona singular como sujeto, de lo contrario se utiliza tercera singular. La estructura es la siguiente: T/A - A1s/A3s - raíz posicional 
+- base formada por –V
+Rl - SC. 
+ Los adverbios tienen como entrada principal los adverbios mismos. 
+--------------------------------------------------Retrieved metadata: {'page': 9, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ Perfectivo -sal 
+ 
+-naq/inaq 
+ -m -Este se emplea  sólo con raíces o bases intransitivas para indicar perfecto o participio. 
+-Se emplea para marcar el perfecto en verbos 
+intransitivos. -Este morfema marca el perf ectivo únicamente en el 
+verbo ‘saber’. 
+imperativo ø- -oq/ø- -
+een 
+k- -e’/ø-  
+ ma-/m- -Se utiliza sólo con verbos intransitivos.  
+-Se utilizan con verbos transitivos, el 1ro. cuando el 
+agente es segunda persona y el 2do. con agente de 3ra. plural. 
+-Estos prefijos marcan neg ación imperativa en v.i. y 
+v.t. El 1ro. /_V y el 2do. /_C. 
+Cuadro 1. Marcadores  de tiempo/aspecto 
+ 
+Marcadores de persona 
+En Uspanteko existen dos juegos de marca dores de personas que son: los marcadores 
+absolutivos y los marcadores ergativos. Dichos marcadores se presentan en los 
+cuadros siguientes:   
+Marcadores ergativos 
+Preconsonante Prevocálico  
+1ra. in- in- (inw-) 
+2da. a- aw-  
+Singulares 
+3ra. j-, ø- r- 
+1ra. qa- q- 
+2da. a- taq aw- taq  
+Plurales 
+3ra. j- taq, ø- taq r- taq 
+Cuadro 2. Marcadores ergativos 
+ 
+Marcadores absolutivos 
+1ra. in-, on, -iin 
+2da. at-, -aat  
+Singulares 
+3ra. ø- 
+1ra. oj-, -ooj 
+2da. at- taq, -aat taq  
+Plurales 
+3ra. ø- taq 
+Cuadro 3. Marcadores absolutivos 
+--------------------------------------------------Retrieved metadata: {'page': 0, 'source': './ReferenceDocs/UspantekoRef.pdf'} 
+Retrieved text: 
+ investigadores encargados de la recolección de datos, que también son hablantes de 
+este idioma, acudieron a otras personas en cad a comunidad visitada para obtener más 
+información. En algunos casos fue necesario  acudir a personas especialistas, como 
+comadronas, curanderos y otros para obtener información sobre palabras 
+especializadas y procesos. Para su escritura  se ha aplicado el alfabeto de la 
+----------------------------------------------------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
